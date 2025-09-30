@@ -1,2 +1,4 @@
 # A-Transformational-Unification-of-Quantum-Mechanics-and-General-Relativity
-A Transformational Unification of Quantum Mechanics and General Relativity via the ∆∞Ο Framework by Alexander Ngu. 
+A Transformational Unification of Quantum Mechanics and General Relativity via the ∆∞Ο Framework by Alexander Ngu & Amaya Odilon Kosso 
+Abstract:
+We present a novel theoretical framework that unifies quantum mechanics and general relativity through a transformational principle encoded in the∆∞ Ο formalism. By treating both domains as manifestations of a shared transformation logic mediated by a Planck-scale parameter∞, we demonstrate their convergence at the Planck scale. The framework introduces a unified Lagrangian and transformation operator that consistently recovers known physical laws while predicting new phenomena such as modified uncertainty relations and emergent spacetime structures. Our approach resolves longstanding issues including the measurement problem, information paradox, and singularity formation, offering a computationally tractable and empirically grounded path toward a complete theory of quantum gravity.
